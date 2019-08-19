@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const client = new Discord.Client();
+const client = new Discord.Client(613105152131465217);
 var prefix = "$"
  
 client.on('message', message => {
